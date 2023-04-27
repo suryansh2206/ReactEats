@@ -6,25 +6,25 @@ const DUMMY_MEALS = [
   {
     id: "m1",
     name: "Chole Bhature",
-    description: "Finest fish and veggies",
+    description: "Experience the perfect blend of crisp and spice",
     price: 79.99,
   },
   {
     id: "m2",
     name: "Vada Pav",
-    description: "A german specialty!",
+    description: "Grab a bite of Mumbai's iconic street food",
     price: 30.5,
   },
   {
     id: "m3",
     name: "Aloo ka Paratha",
-    description: "American, raw, meaty",
+    description: "Indulge in the comforting flavors of India",
     price: 49.99,
   },
   {
     id: "m4",
-    name: "Sabzi Puri",
-    description: "Healthy...and green...",
+    name: "Idli Sambhar",
+    description: "Experience the authentic taste of South India",
     price: 29.99,
   },
 ];
